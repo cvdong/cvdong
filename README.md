@@ -76,7 +76,7 @@ if __name__ == '__main__':
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
 </div>
 
-<img src="./src/11.gif" width="100%">&theme=dark
+<img src="./src/11.gif" width="100%">
 
 ![](https://img.shields.io/badge/cvyang-%E6%9D%B1-brightgreen) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
