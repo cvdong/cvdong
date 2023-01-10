@@ -47,9 +47,7 @@ if __name__ == '__main__':
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cvdong&theme=highcontrast)](https://git.io/streak-stats)
 
-<img  src="https://github-profile-trophy.vercel.app/?username=cvdong&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><img width="50%" src="./src/03.gif"/> </div>
-
-<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cvdong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```javascript
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
@@ -89,7 +87,5 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <img src="./src/11.gif" width="100%">&theme=dark
 
 ![](https://img.shields.io/badge/cvyang-%E6%9D%B1-brightgreen) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cvdong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
