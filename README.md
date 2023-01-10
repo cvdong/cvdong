@@ -49,14 +49,6 @@ if __name__ == '__main__':
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cvdong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```javascript
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
-</br>
-
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
