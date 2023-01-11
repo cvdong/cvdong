@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvdong&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yangzhegithub&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cvdong&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cvdong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
