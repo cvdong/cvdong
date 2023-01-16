@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvdong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvdong&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cvdong&theme=highcontrast)](https://git.io/streak-stats)
 
