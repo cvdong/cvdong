@@ -20,7 +20,7 @@ class CV東Trips():
     self.name = "算法工程师，聚焦于深度神经网络模型压缩与部署"
     self.username = "東"
     self.location = "上海, China"
-    self.mail = "cv_dong@163.com"
+    self.mail = "cv_dong@163.com/cv_yang@126.com"
     self.wechat_id = "CVYANGD"
 
   def __str__(self):
