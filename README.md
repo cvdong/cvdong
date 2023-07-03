@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cvdong&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cvdong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cvdong&theme=github-compact)](https://github.com/cvdong/github-readme-activity-graph)
 
 
 <div>
