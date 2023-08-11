@@ -17,7 +17,7 @@
 class CV東Trips():
     
   def __init__(self):
-    self.name = "算法工程师，聚焦于深度神经网络模型压缩与部署"
+    self.name = "算法工程师，聚焦于深度神经网络模型压缩与部署, LLM"
     self.username = "東"
     self.location = "上海, China"
     self.mail = "cv_dong@163.com/cv_yang@126.com"
