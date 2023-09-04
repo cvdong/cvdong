@@ -91,7 +91,3 @@ if __name__ == '__main__':
 ![](https://img.shields.io/badge/cvyang-%E6%9D%B1-brightgreen) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
-
-### :sparkles: My Followers
-
-![Metrics](https://metrics.lecoq.io/cvdong?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
